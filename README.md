@@ -1,4 +1,4 @@
-# Final_Presentation_Python
+# Final_Project_Python
 
 <img width="429" alt="Screenshot 2023-09-28 at 14 07 47" src="https://github.com/jaksdt/Final_Presentation_Python/assets/133106599/a6fe66f1-75e7-445d-98d2-e4e865153a1a">
 
